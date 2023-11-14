@@ -1,3 +1,3 @@
 # .github
 
-uJar Bootcamp
+KnowHowSpringBoot Bootcamp
